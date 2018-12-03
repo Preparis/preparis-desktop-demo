@@ -1,0 +1,7 @@
+owner: preparis
+repo: preparis-desktop-deploy
+provider: github
+host: githuhb.com/preparis
+private: true
+publisherName:
+  - Preparis
